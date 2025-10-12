@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MyUnitConverter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- customize if you want -->
+    </style>
+</resources>
